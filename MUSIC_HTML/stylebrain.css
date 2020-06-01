@@ -1,0 +1,81 @@
+body{
+    background-image: url("1680x1050_px_AKG_black_headphones_white-539025.jpg" );
+    background-color: black;
+    background-repeat: no-repeat;
+    padding: 10px;
+    margin: 50px;
+}
+h1{
+    text-align: center;
+    color: red;
+    font-family: "High Tower Text";
+    font-size: 50px;
+}
+h5{
+    font-family: Arial;
+    color: white;
+
+}
+.outer{
+    position: fixed;
+    text-align:center;
+    float: right;
+    right: 130px;
+    top: 50px;
+}
+#navTable{
+    display: block;
+    margin: auto;
+    float: right;}
+
+.content{
+  /*  border: 1px solid white;*/
+    max-width:70%;
+    min-height: 70vh;
+    text-align: left;
+    margin: revert;
+
+
+}
+/*#side1{
+    max-width:70%;
+    min-height: 70vh;
+    background-color: khaki ;
+    text-align: center;
+    border: 1px solid black;}
+#side1 > p{
+    display: inline;
+    padding: inherit;}*/
+p {
+    font-family: "Comic Sans MS";
+    font-size: x-large;
+    color: aliceblue;
+    text-align: justify;
+}
+.side2{
+    background-color: rgba(214,223,221,0.3);
+    max-width:100%;
+    min-height: 10vh;
+    padding: auto;
+    border: 1px solid white ;
+    border-radius: 10px;
+    max-width: 1000px;
+    max-height: 190px;
+}
+
+
+h3{
+    font-family: Algerian;
+    font-size:x-large;
+    color: aqua; }
+.side2 > a{
+
+    display:inline;
+    padding: inherit;
+}
+a{
+    color: white;
+}
+a:active {
+    color: white;
+}

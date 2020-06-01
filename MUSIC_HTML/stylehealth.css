@@ -1,0 +1,84 @@
+body{
+    background-image: url("Healthwall.jpg");
+    background-repeat: no-repeat;
+    background-color: white;
+    z-index: 1;
+    padding: 10px;
+    margin: 50px;
+
+}
+h1{
+    text-align: center;
+    color: red;
+    font-family: "High Tower Text";
+    font-size: 50px;
+}
+h5{
+    font-family: Arial;
+    color: black;
+
+}
+.outer{
+    position: fixed;
+    text-align:center;
+    float: right;
+    right: 130px;
+    top: 50px;
+
+}
+#navTable{
+    display: block;
+    margin: auto;}
+
+.content{
+   /* border: 1px solid black;*/
+    max-width:70%;
+    min-height: 70vh;
+    text-align: left;
+    margin: revert;
+
+
+}
+
+/*#side1{
+    max-width:70%;
+    min-height: 70vh;
+    background-color: khaki ;
+    text-align: center;
+    border: 1px solid black;}
+#side1 > p{
+    display: inline;
+    padding: inherit;}*/
+p {
+    font-family: "Comic Sans MS";
+    font-size: x-large;
+    color: black;
+    text-align: justify;
+
+}
+.side2{
+    background-color: darkgray;
+    max-width:100%;
+    min-height: 10vh;
+    padding: auto;
+    border: 1px solid white ;
+    border-radius: 10px;
+    max-width: 1000px;
+    max-height: 190px;
+}
+
+h3{
+    font-family: Algerian;
+    font-size:x-large;
+    color: darkblue}
+.side2 > a{
+
+    display:inline;
+    padding: inherit;
+}
+a{
+    color: black;
+}
+a:active {
+    color: white;
+}
